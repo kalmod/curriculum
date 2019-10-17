@@ -403,4 +403,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Rakesh M R's Solution](https://github.com/rakesh-m-r/Calculator) - [View in Browser](https://rakesh-m-r.github.io/Calculator/)
 - [DalandanJuice's Solution](https://github.com/DalandanJuice/calculator) - [View in Browser](https://dalandanjuice.github.io/calculator/)
 - [Hyperturing's Solution](https://github.com/hyperturing/calculator) - [View in Browser](https://hyperturing.github.io/calculator/)
+- [Kalmod's Solution](https://github.com/kalmod/calculator) - [View in Browser](https://kalmod.github.io/calculator/)
 </details>
+
